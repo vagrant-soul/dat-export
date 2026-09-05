@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "createdAt": 1788563000,
+  "createdAt": 1788593959,
   "tables": [
     {
       "validFor": 1,
@@ -189784,7 +189784,10 @@
         "GEM",
         "SOCKETABLE",
         "EXPEDITION",
-        "RITUAL"
+        "RITUAL",
+        "BREACH",
+        "ABYSS",
+        "RELIC"
       ]
     },
     {
